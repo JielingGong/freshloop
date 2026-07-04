@@ -1,0 +1,8 @@
+{
+  "name": "FreshLoop",
+  "description": "Automated produce freshness assessment system using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
